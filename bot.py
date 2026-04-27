@@ -34,7 +34,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 # ─────────────────────────────────────────────
 
 BOT_TOKEN   = os.getenv(“TELEGRAM_BOT_TOKEN”, “AAGr5wmwBN688sriuQeSM8tVfSqWnbDUN4A”)
-CHAT_ID     = os.getenv(“TELEGRAM_CHAT_ID”,   “TU_CHAT_ID_AQUI”)
+CHAT_ID     = os.getenv(“TELEGRAM_CHAT_ID”,   “8200800235”)
 
 TICKERS = [“AAPL”, “MSFT”, “GOOGL”, “SPY”, “NVDA”, “JNJ”]
 
